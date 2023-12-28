@@ -1,4 +1,4 @@
-# Sinta-se a vontade para testar, todos os testes são validados. - Shiny APP
+# R - Shiny APP
 ******
 Testes dispoíveis -
 
